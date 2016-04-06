@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;    
+}
+
+nav a {
+	cursor: pointer;
+}
+
+nav a.active {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+nav .input-group {
+    margin-top: 8px;
+    width: 300px;
+}
